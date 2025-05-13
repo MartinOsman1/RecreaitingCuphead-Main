@@ -1,0 +1,1156 @@
+fileFormatVersion: 2
+guid: 9690dc2095125ec489612f9b41bfb39e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3055593048344576432
+    second: CoinIdleSheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CoinIdleSheet_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 13
+        width: 78
+        height: 127
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline:
+      - - {x: 90.64131, y: -81.5}
+        - {x: 801.5, y: -81.5}
+        - {x: 801.5, y: 81.5}
+        - {x: -801.5, y: 81.5}
+        - {x: -801.5, y: -81.5}
+        - {x: 33.846313, y: -81.5}
+        - {x: -188.5, y: -81.5}
+      - - {x: -730.5, y: -73.5}
+        - {x: -728.5, y: -73.5}
+        - {x: -722.5, y: -67.5}
+        - {x: -711.5, y: -48.5}
+        - {x: -712.5, y: 32.5}
+        - {x: -723.5, y: 56.5}
+        - {x: -730.5, y: 61.5}
+        - {x: -734.5, y: 62.5}
+        - {x: -701.5, y: 61.5}
+        - {x: -701.5, y: -73.5}
+        - {x: -731.3788, y: -74.378784}
+      - - {x: -384.5, y: -73.5}
+        - {x: -384.5, y: 61.5}
+        - {x: -362.5, y: 62.5}
+        - {x: -368.5, y: 60.5}
+        - {x: -374.5, y: 55.5}
+        - {x: -380.5, y: 39.5}
+        - {x: -382.5, y: 24.5}
+        - {x: -382.5, y: 0.5}
+        - {x: -383.5, y: -12.5}
+        - {x: -382.5, y: -22.5}
+        - {x: -381.5, y: -33.5}
+        - {x: -379.5, y: -49.5}
+        - {x: -377.5, y: -56.5}
+        - {x: -374.5, y: -63.5}
+        - {x: -368.5, y: -70.5}
+        - {x: -362.5, y: -73.5}
+        - {x: -360.5702, y: -74.27193}
+      - - {x: 645.5, y: -73.5}
+        - {x: 645.5, y: 61.5}
+        - {x: 675.5, y: 62.5}
+        - {x: 667.5, y: 59.5}
+        - {x: 659.5, y: 51.5}
+        - {x: 654.5, y: 29.5}
+        - {x: 654.5, y: -36.5}
+        - {x: 657.5, y: -60.5}
+        - {x: 663.5, y: -69.5}
+        - {x: 667.5, y: -71.5}
+        - {x: 668.5, y: -71.5}
+        - {x: 671.36206, y: -74.362076}
+      - - {x: -693.5, y: -73.5}
+        - {x: -693.5, y: 61.5}
+        - {x: -663.62164, y: 62.40541}
+        - {x: -672.5, y: 55.5}
+        - {x: -680.5, y: 57.5}
+        - {x: -692.5, y: -45.5}
+        - {x: -673.5, y: -68.5}
+        - {x: -666.5, y: -73.5}
+        - {x: -664.5, y: -72.5}
+        - {x: -662.6428, y: -74.35715}
+      - - {x: -796.5, y: -73.5}
+        - {x: -796.5, y: 61.5}
+        - {x: -768.5829, y: 62.40056}
+        - {x: -773.5, y: 56.5}
+        - {x: -776.5, y: 48.5}
+        - {x: -783.5, y: 28.5}
+        - {x: -784.5, y: 20.5}
+        - {x: -783.5, y: -31.5}
+        - {x: -782.5, y: -45.5}
+        - {x: -772.5, y: -68.5}
+        - {x: -768.5, y: -72.5}
+        - {x: -763.9667, y: -74.31334}
+      - - {x: 748.5, y: -73.5}
+        - {x: 748.5, y: 61.5}
+        - {x: 776.4, y: 62.399994}
+        - {x: 775.5, y: 61.5}
+        - {x: 774.5, y: 61.5}
+        - {x: 767.5, y: 57.5}
+        - {x: 756.5, y: 26.5}
+        - {x: 757.5, y: -39.5}
+        - {x: 765.5, y: -63.5}
+        - {x: 773.5, y: -72.5}
+        - {x: 777.04285, y: -74.27142}
+      - - {x: 723.5, y: -68.5}
+        - {x: 727.5, y: -61.5}
+        - {x: 736.5, y: -34.5}
+        - {x: 728.5, y: 49.5}
+        - {x: 715.6111, y: 62.388885}
+        - {x: 740.5, y: 61.5}
+        - {x: 740.5, y: -73.5}
+        - {x: 715.15, y: -74.345}
+      - - {x: 253.97058, y: 62.205887}
+        - {x: 258.80908, y: 62.372726}
+        - {x: 257.5, y: 61.5}
+      - - {x: -590.5, y: -73.5}
+        - {x: -590.5, y: 61.5}
+        - {x: -564.63794, y: 62.362076}
+        - {x: -565.5, y: 61.5}
+        - {x: -567.5, y: 61.5}
+        - {x: -573.5, y: 57.5}
+        - {x: -576.5, y: 47.5}
+        - {x: -587.5, y: 6.5}
+        - {x: -577.5, y: -68.5}
+        - {x: -566.5, y: -73.5}
+        - {x: -564.5, y: -73.5}
+        - {x: -563.60345, y: -74.396545}
+      - - {x: -281.5, y: 61.5}
+        - {x: -255.22882, y: 62.347458}
+        - {x: -256.5, y: 61.5}
+        - {x: -259.5, y: 61.5}
+        - {x: -265.5, y: 58.5}
+        - {x: -271.5, y: 52.5}
+        - {x: -276.5, y: 45.5}
+        - {x: -280.5, y: 27.5}
+        - {x: -281.5, y: -9.5}
+      - - {x: 542.5, y: -73.5}
+        - {x: 542.5, y: 61.5}
+        - {x: 568.7712, y: 62.347458}
+        - {x: 567.5, y: 61.5}
+        - {x: 564.5, y: 61.5}
+        - {x: 555.5, y: 56.5}
+        - {x: 542.5, y: 21.5}
+        - {x: 547.5, y: -40.5}
+        - {x: 555.5, y: -63.5}
+        - {x: 566.21875, y: -74.21875}
+      - - {x: 336.5, y: 61.5}
+        - {x: 361.76315, y: 62.342102}
+        - {x: 360.5, y: 61.5}
+        - {x: 355.5, y: 61.5}
+        - {x: 346.5, y: 56.5}
+        - {x: 337.5, y: 43.5}
+        - {x: 336.5, y: 25.5}
+      - - {x: -307.5, y: -71.5}
+        - {x: -301.5, y: -64.5}
+        - {x: -295.5, y: -56.5}
+        - {x: -289.5, y: -17.5}
+        - {x: -291.5, y: 16.5}
+        - {x: -295.5, y: 48.5}
+        - {x: -304.5, y: 56.5}
+        - {x: -314.5, y: 61.5}
+        - {x: -317.8333, y: 62.33333}
+        - {x: -289.5, y: 61.5}
+        - {x: -289.5, y: -73.5}
+        - {x: -313.966, y: -74.37378}
+      - - {x: -75.5, y: 61.5}
+        - {x: -48.83333, y: 62.33333}
+        - {x: -50.5, y: 61.5}
+        - {x: -54.5, y: 61.5}
+        - {x: -59.5, y: 59.5}
+        - {x: -67.5, y: 52.5}
+        - {x: -72.5, y: 46.5}
+        - {x: -75.5, y: 36.5}
+      - - {x: 429.5, y: 30.5}
+        - {x: 426.5, y: 39.5}
+        - {x: 423.5, y: 47.5}
+        - {x: 419.5, y: 54.5}
+        - {x: 410.5, y: 59.5}
+        - {x: 406.5, y: 61.5}
+        - {x: 403.1667, y: 62.33333}
+        - {x: 431.5, y: 61.5}
+        - {x: 431.5, y: 4.5}
+        - {x: 430.5, y: 20.5}
+      - - {x: -623.5, y: -73.5}
+        - {x: -617.5, y: -70.5}
+        - {x: -606.5, y: -39.5}
+        - {x: -605.5, y: 22.5}
+        - {x: -617.5, y: 56.5}
+        - {x: -625.5, y: 61.5}
+        - {x: -627.5, y: 61.5}
+        - {x: -629.15717, y: 62.328568}
+        - {x: -598.5, y: 61.5}
+        - {x: -598.5, y: -73.5}
+        - {x: -626.94824, y: -74.362076}
+      - - {x: 617.5, y: -73.5}
+        - {x: 624.5, y: -67.5}
+        - {x: 633.5, y: -49.5}
+        - {x: 633.5, y: 27.5}
+        - {x: 628.5, y: 49.5}
+        - {x: 620.5, y: 59.5}
+        - {x: 615.5, y: 59.5}
+        - {x: 613.6177, y: 62.323532}
+        - {x: 637.5, y: 61.5}
+        - {x: 637.5, y: -73.5}
+        - {x: 612.9545, y: -74.40909}
+      - - {x: 14.5, y: 48.5}
+        - {x: 2.5, y: 58.5}
+        - {x: 0.5, y: 60.5}
+        - {x: -4.028305, y: 62.311325}
+        - {x: 19.5, y: 61.5}
+        - {x: 19.5, y: 24.5}
+        - {x: 18.5, y: 32.5}
+      - - {x: -516.5, y: -72.5}
+        - {x: -514.5, y: -69.5}
+        - {x: -508.5, y: -61.5}
+        - {x: -503.5, y: -44.5}
+        - {x: -505.5, y: 37.5}
+        - {x: -510.5, y: 53.5}
+        - {x: -518.5, y: 60.5}
+        - {x: -519.5, y: 60.5}
+        - {x: -521.30646, y: 62.306458}
+        - {x: -495.5, y: 61.5}
+        - {x: -495.5, y: -73.5}
+        - {x: -520.6685, y: -74.286514}
+      - - {x: 321.5, y: 49.5}
+        - {x: 311.5, y: 59.5}
+        - {x: 305.5, y: 61.5}
+        - {x: 303.5, y: 61.5}
+        - {x: 302.69354, y: 62.306458}
+        - {x: 328.5, y: 61.5}
+        - {x: 328.5, y: 12.5}
+        - {x: 326.5, y: 31.5}
+      - - {x: -193.5, y: 50.5}
+        - {x: -202.5, y: 58.5}
+        - {x: -208.5, y: 61.5}
+        - {x: -210.5, y: 61.5}
+        - {x: -211.3, y: 62.300003}
+        - {x: -186.5, y: 61.5}
+        - {x: -186.5, y: 21.5}
+        - {x: -189.5, y: 35.5}
+      - - {x: -178.5, y: 61.5}
+        - {x: -157.7, y: 62.300003}
+        - {x: -158.5, y: 61.5}
+        - {x: -161.5, y: 61.5}
+        - {x: -165.5, y: 59.5}
+        - {x: -175.5, y: 46.5}
+        - {x: -177.5, y: 36.5}
+        - {x: -178.5, y: 28.5}
+      - - {x: -88.5, y: 48.5}
+        - {x: -94.5, y: 55.5}
+        - {x: -100.5, y: 59.5}
+        - {x: -105.5, y: 60.5}
+        - {x: -107.293106, y: 62.293106}
+        - {x: -83.5, y: 61.5}
+        - {x: -83.5, y: 10.5}
+        - {x: -84.5, y: 36.5}
+      - - {x: 210.5, y: 58.5}
+        - {x: 206.5, y: 60.5}
+        - {x: 201.14285, y: 62.28572}
+        - {x: 225.5, y: 61.5}
+        - {x: 225.5, y: 35.5}
+        - {x: 223.5, y: 45.5}
+      - - {x: 528.5, y: 47.5}
+        - {x: 515.5, y: 60.5}
+        - {x: 510.5, y: 61.5}
+        - {x: 509.75, y: 62.25}
+        - {x: 534.5, y: 61.5}
+        - {x: 534.5, y: 5.5}
+        - {x: 531.5, y: 34.5}
+      - - {x: -415.5, y: -73.5}
+        - {x: -408.5, y: -68.5}
+        - {x: -400.5, y: -59.5}
+        - {x: -393.5, y: -21.5}
+        - {x: -402.5, y: 52.5}
+        - {x: -416.5, y: 60.5}
+        - {x: -419.5, y: 61.5}
+        - {x: -421.5, y: 61.5}
+        - {x: -422.2436, y: 62.24359}
+        - {x: -392.5, y: 61.5}
+        - {x: -392.5, y: -73.5}
+        - {x: -417.7258, y: -74.24193}
+      - - {x: 439.5, y: -73.5}
+        - {x: 439.5, y: 61.5}
+        - {x: 460.83963, y: 62.235855}
+        - {x: 456.5, y: 60.5}
+        - {x: 451.5, y: 54.5}
+        - {x: 448.5, y: 51.5}
+        - {x: 445.5, y: 44.5}
+        - {x: 443.5, y: 39.5}
+        - {x: 439.5, y: 22.5}
+        - {x: 440.5, y: -7.5}
+        - {x: 441.5, y: -27.5}
+        - {x: 442.5, y: -48.5}
+        - {x: 444.5, y: -54.5}
+        - {x: 449.5, y: -63.5}
+        - {x: 456.5, y: -70.5}
+        - {x: 463.5, y: -73.5}
+        - {x: 470.5, y: -74.5}
+      - - {x: -487.5, y: -73.5}
+        - {x: -487.5, y: 61.5}
+        - {x: -460.77777, y: 62.22223}
+        - {x: -462.5, y: 60.5}
+        - {x: -464.5, y: 61.5}
+        - {x: -470.5, y: 61.5}
+        - {x: -486.5, y: 37.5}
+        - {x: -484.5, y: -31.5}
+        - {x: -478.5, y: -63.5}
+        - {x: -469.5, y: -72.5}
+        - {x: -466.5, y: -73.5}
+        - {x: -463.5, y: -73.5}
+        - {x: -462.7, y: -74.3}
+      - - {x: 233.5, y: 61.5}
+        - {x: 251.99275, y: 62.13768}
+        - {x: 245.5, y: 57.5}
+        - {x: 238.5, y: 48.5}
+        - {x: 234.5, y: 39.5}
+        - {x: 233.5, y: 35.5}
+      - - {x: -178.5, y: -13.5}
+        - {x: -177.5, y: -14.5}
+        - {x: -178.5, y: -15.5}
+      - - {x: 19.5, y: -17.5}
+        - {x: 19.5, y: -19.5}
+        - {x: 18.5, y: -18.5}
+      - - {x: 233.5, y: -20.5}
+        - {x: 234.5, y: -21.5}
+        - {x: 233.5, y: -23.5}
+      - - {x: -75.5, y: -73.5}
+        - {x: -75.5, y: -38.5}
+        - {x: -73.5, y: -50.5}
+        - {x: -70.5, y: -62.5}
+        - {x: -60.5, y: -71.5}
+        - {x: -54.5, y: -73.5}
+        - {x: -51.5, y: -73.5}
+        - {x: -49.951614, y: -74.2742}
+      - - {x: 200.5, y: -73.5}
+        - {x: 212.5, y: -70.5}
+        - {x: 222.5, y: -58.5}
+        - {x: 224.5, y: -51.5}
+        - {x: 225.5, y: -46.5}
+        - {x: 225.5, y: -73.5}
+        - {x: 199.89024, y: -74.10976}
+      - - {x: 27.5, y: -73.5}
+        - {x: 26.787231, y: -49.97873}
+        - {x: 29.5, y: -54.5}
+        - {x: 29.5, y: -56.5}
+        - {x: 30.5, y: -59.5}
+        - {x: 38.5, y: -67.5}
+        - {x: 48.464844, y: -73.47891}
+        - {x: 47.298798, y: -74.11871}
+      - - {x: 130.5, y: -73.5}
+        - {x: 130.34666, y: -64.14659}
+        - {x: 135.64366, y: -61.831512}
+        - {x: 149.5, y: -73.5}
+        - {x: 157.5, y: -73.5}
+        - {x: 158, y: -73}
+        - {x: 159.3, y: -74.3}
+      - - {x: 567.25, y: -74.25}
+        - {x: 569.5, y: -73.5}
+        - {x: 570, y: -73}
+        - {x: 571.375, y: -74.375}
+      - - {x: -74.5, y: 29.5}
+        - {x: -75.5, y: 28.5}
+        - {x: -75.5, y: 30.5}
+      - - {x: 338.5, y: -36.5}
+        - {x: 341.5, y: -52.5}
+        - {x: 345.5, y: -63.5}
+        - {x: 355.5, y: -72.5}
+        - {x: 357.5, y: -71.5}
+        - {x: 360.35187, y: -74.35185}
+        - {x: 336.5, y: -73.5}
+        - {x: 336.5, y: -26.5}
+      - - {x: 18.5, y: 21.5}
+        - {x: 19.5, y: 22.5}
+        - {x: 19.5, y: 19.5}
+      - - {x: -209.25862, y: -74.25862}
+        - {x: -208.5, y: -73.5}
+        - {x: -205.5, y: -73.5}
+        - {x: -194.5, y: -63.5}
+        - {x: -193.5, y: -60.5}
+        - {x: -189.5, y: -54.5}
+        - {x: -186.5, y: -31.5}
+        - {x: -186.5, y: -73.5}
+      - - {x: 306.72223, y: -74.27777}
+        - {x: 308.5, y: -72.5}
+        - {x: 311.5, y: -72.5}
+        - {x: 315.5, y: -70.5}
+        - {x: 324.5, y: -58.5}
+        - {x: 326.5, y: -52.5}
+        - {x: 328.5, y: -32.5}
+        - {x: 328.5, y: -73.5}
+      - - {x: -112.28787, y: -74.25757}
+        - {x: -108.5, y: -73.5}
+        - {x: -102.5, y: -73.5}
+        - {x: -86.5, y: -55.5}
+        - {x: -83.5, y: -36.5}
+        - {x: -83.5, y: -73.5}
+      - - {x: 509.95453, y: -74.40909}
+        - {x: 514.5, y: -73.5}
+        - {x: 522.5, y: -71.5}
+        - {x: 534.5, y: -48.5}
+        - {x: 534.5, y: -73.5}
+      - - {x: 409.72223, y: -74.27777}
+        - {x: 412.5, y: -71.5}
+        - {x: 414.5, y: -72.5}
+        - {x: 424.5, y: -61.5}
+        - {x: 429.5, y: -43.5}
+        - {x: 431.5, y: -15.5}
+        - {x: 431.5, y: -73.5}
+      - - {x: -268.5, y: -72.5}
+        - {x: -262.5, y: -73.5}
+        - {x: -260.5, y: -73.5}
+        - {x: -259.2647, y: -74.32353}
+        - {x: -281.5, y: -73.5}
+        - {x: -281.5, y: -51.5}
+      - - {x: -176.5, y: -51.5}
+        - {x: -171.5, y: -62.5}
+        - {x: -158.5, y: -73.5}
+        - {x: -154.5, y: -72.5}
+        - {x: -152.82433, y: -74.175674}
+        - {x: -178.5, y: -73.5}
+        - {x: -178.5, y: -30.5}
+      - - {x: -6.0483856, y: -74.2742}
+        - {x: -2.5, y: -72.5}
+        - {x: 3.5, y: -72.5}
+        - {x: 13.5, y: -61.5}
+        - {x: 19.5, y: -41.5}
+        - {x: 19.5, y: -73.5}
+      - - {x: 234.5, y: -48.5}
+        - {x: 236.5, y: -58.5}
+        - {x: 248.5, y: -71.5}
+        - {x: 254.5, y: -73.5}
+        - {x: 256.5, y: -73.5}
+        - {x: 258.0862, y: -74.293106}
+        - {x: 233.5, y: -73.5}
+        - {x: 233.5, y: -34.5}
+      physicsShape:
+      - - {x: -778.5, y: 81.5}
+        - {x: -781.5, y: -78.5}
+        - {x: 801.5, y: -81.5}
+        - {x: 801.5, y: 5.5}
+        - {x: 801.5, y: 81.5}
+      - - {x: -781.5, y: -76.5}
+        - {x: -783.5, y: 5.5}
+        - {x: -776.5, y: 63.5}
+        - {x: -701.5, y: 61.5}
+        - {x: -701.5, y: -73.5}
+      - - {x: -693.5, y: -73.5}
+        - {x: -693.5, y: 61.5}
+        - {x: -598.5, y: 61.5}
+        - {x: -598.5, y: -73.5}
+      - - {x: -590.5, y: -73.5}
+        - {x: -590.5, y: 61.5}
+        - {x: -495.5, y: 61.5}
+        - {x: -495.5, y: -73.5}
+      - - {x: -487.5, y: -73.5}
+        - {x: -487.5, y: 61.5}
+        - {x: -392.5, y: 61.5}
+        - {x: -392.5, y: -73.5}
+      - - {x: -384.5, y: -73.5}
+        - {x: -384.5, y: 61.5}
+        - {x: -289.5, y: 61.5}
+        - {x: -289.5, y: -73.5}
+      - - {x: -281.5, y: -73.5}
+        - {x: -281.5, y: 61.5}
+        - {x: -186.5, y: 61.5}
+        - {x: -186.5, y: -73.5}
+      - - {x: -178.5, y: -73.5}
+        - {x: -178.5, y: 61.5}
+        - {x: -83.5, y: 61.5}
+        - {x: -83.5, y: -73.5}
+      - - {x: -75.5, y: -73.5}
+        - {x: -75.5, y: 61.5}
+        - {x: 19.5, y: 61.5}
+        - {x: 19.5, y: -73.5}
+      - - {x: 27.5, y: -73.5}
+        - {x: 27.5, y: 61.5}
+        - {x: 122.5, y: 61.5}
+        - {x: 122.5, y: -73.5}
+      - - {x: 130.5, y: -73.5}
+        - {x: 130.5, y: 61.5}
+        - {x: 225.5, y: 61.5}
+        - {x: 225.5, y: -73.5}
+      - - {x: 233.5, y: -73.5}
+        - {x: 233.5, y: 61.5}
+        - {x: 328.5, y: 61.5}
+        - {x: 328.5, y: -73.5}
+      - - {x: 336.5, y: -73.5}
+        - {x: 336.5, y: 61.5}
+        - {x: 431.5, y: 61.5}
+        - {x: 431.5, y: -73.5}
+      - - {x: 439.5, y: -73.5}
+        - {x: 439.5, y: 61.5}
+        - {x: 534.5, y: 61.5}
+        - {x: 534.5, y: -73.5}
+      - - {x: 542.5, y: -73.5}
+        - {x: 542.5, y: 61.5}
+        - {x: 637.5, y: 61.5}
+        - {x: 637.5, y: -73.5}
+      - - {x: 645.5, y: -73.5}
+        - {x: 645.5, y: 61.5}
+        - {x: 740.5, y: 61.5}
+        - {x: 740.5, y: -73.5}
+      - - {x: -307.5, y: 50.5}
+        - {x: -367.5, y: 50.5}
+        - {x: -367.5, y: -53.5}
+        - {x: -356.5, y: -62.5}
+        - {x: -307.5, y: -62.5}
+      - - {x: -519.5, y: -59.5}
+        - {x: -519.5, y: 6.5}
+        - {x: -522.5, y: 50.5}
+        - {x: -565.5, y: 50.5}
+        - {x: -565.5, y: -60.5}
+        - {x: -564.5, y: -61.5}
+        - {x: -526.5, y: -61.5}
+      - - {x: -98.5, y: 50.5}
+        - {x: -157.5, y: 50.5}
+        - {x: -163.5, y: 36.5}
+        - {x: -163.5, y: -58.5}
+        - {x: -151.5, y: -61.5}
+        - {x: -98.5, y: -61.5}
+      - - {x: 110.5, y: -47.5}
+        - {x: 110.5, y: 30.5}
+        - {x: 105.5, y: 50.5}
+        - {x: 49.5, y: 50.5}
+        - {x: 38.5, y: 34.5}
+        - {x: 38.5, y: -47.5}
+        - {x: 51.5, y: -61.5}
+        - {x: 102.5, y: -61.5}
+      - - {x: 212.5, y: 44.5}
+        - {x: 197.5, y: 50.5}
+        - {x: 143.5, y: 50.5}
+        - {x: 143.5, y: -49.5}
+        - {x: 156.5, y: -58.5}
+        - {x: 160.5, y: -60.5}
+        - {x: 212.5, y: -60.5}
+      - - {x: -202.5, y: 43.5}
+        - {x: -206.5, y: 49.5}
+        - {x: -262.5, y: 49.5}
+        - {x: -265.5, y: 48.5}
+        - {x: -265.5, y: -54.5}
+        - {x: -262.5, y: -62.5}
+        - {x: -202.5, y: -62.5}
+      - - {x: 313.5, y: -53.5}
+        - {x: 313.5, y: 47.5}
+        - {x: 307.5, y: 49.5}
+        - {x: 247.5, y: 49.5}
+        - {x: 247.5, y: -57.5}
+        - {x: 248.5, y: -62.5}
+        - {x: 299.5, y: -62.5}
+      - - {x: 714.5, y: -60.5}
+        - {x: 715.5, y: -48.5}
+        - {x: 715.5, y: 26.5}
+        - {x: 708.5, y: 49.5}
+        - {x: 681.5, y: 49.5}
+        - {x: 670.5, y: 45.5}
+        - {x: 670.5, y: -47.5}
+        - {x: 677.5, y: -62.5}
+        - {x: 707.5, y: -62.5}
+      - - {x: -624.5, y: 49.5}
+        - {x: -664.5, y: 49.5}
+        - {x: -667.5, y: 45.5}
+        - {x: -667.5, y: -48.5}
+        - {x: -664.5, y: -61.5}
+        - {x: -624.5, y: -61.5}
+      - - {x: 5.5, y: -60.5}
+        - {x: 5.5, y: 48.5}
+        - {x: 3.5, y: 49.5}
+        - {x: -44.5, y: 49.5}
+        - {x: -62.5, y: 41.5}
+        - {x: -62.5, y: -30.5}
+        - {x: -54.5, y: -61.5}
+        - {x: 2.5, y: -61.5}
+      - - {x: 414.5, y: -56.5}
+        - {x: 414.5, y: 36.5}
+        - {x: 409.5, y: 49.5}
+        - {x: 355.5, y: 49.5}
+        - {x: 351.5, y: 45.5}
+        - {x: 351.5, y: -38.5}
+        - {x: 364.5, y: -61.5}
+        - {x: 410.5, y: -61.5}
+      - - {x: 518.5, y: -56.5}
+        - {x: 518.5, y: 49.5}
+        - {x: 465.5, y: 49.5}
+        - {x: 456.5, y: 46.5}
+        - {x: 456.5, y: -46.5}
+        - {x: 464.5, y: -61.5}
+        - {x: 517.5, y: -61.5}
+      - - {x: 616.5, y: -49.5}
+        - {x: 616.5, y: 44.5}
+        - {x: 604.5, y: 49.5}
+        - {x: 567.5, y: 49.5}
+        - {x: 563.5, y: 46.5}
+        - {x: 563.5, y: -58.5}
+        - {x: 579.5, y: -61.5}
+        - {x: 605.5, y: -61.5}
+      - - {x: -729.5, y: -57.5}
+        - {x: -729.5, y: 37.5}
+        - {x: -739.5, y: 49.5}
+        - {x: -766.5, y: 49.5}
+        - {x: -767.5, y: 39.5}
+        - {x: -767.5, y: -50.5}
+        - {x: -761.5, y: -59.5}
+        - {x: -758.5, y: -60.5}
+        - {x: -734.5, y: -60.5}
+      - - {x: -413.5, y: -55.5}
+        - {x: -413.5, y: 11.5}
+        - {x: -419.5, y: 48.5}
+        - {x: -466.5, y: 48.5}
+        - {x: -466.5, y: -60.5}
+        - {x: -460.5, y: -61.5}
+        - {x: -423.5, y: -61.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9914c3fab6e9ea49a710039f9d5db9e
+      internalID: 1144003561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 80
+        height: 123
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307a608499386754db6c60552c6e3cab
+      internalID: -957434723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_2
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 14
+        width: 73
+        height: 123
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc1be618d45f1434b9ef3f89f221fcd0
+      internalID: -107799514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_3
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 16
+        width: 80
+        height: 125
+      alignment: 9
+      pivot: {x: 0.14279622, y: 0.90441436}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59211187c0b86de41865d096804925f4
+      internalID: -1539500528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 13
+        width: 60
+        height: 123
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594fa029061551a40b3027325bcf3843
+      internalID: 464062492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_5
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 16
+        width: 68
+        height: 113
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55bd0925ffb4674192702747e484557
+      internalID: 1373030670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_6
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 6
+        width: 82
+        height: 140
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d38ae97d4a49036429eb0cdf882ebc02
+      internalID: -2103161465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_7
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 14
+        width: 82
+        height: 122
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e889fc908e08049b57bcc388cf71e2
+      internalID: 1051022788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_8
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 11
+        width: 82
+        height: 125
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ffec29b9c92e7c40a2cbead575a3e57
+      internalID: 390854873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_9
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 14
+        width: 63
+        height: 125
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2b2e5983abfeb458ea63c3192871bd
+      internalID: -206274519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_10
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 6
+        width: 82
+        height: 140
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3477ab789b9ca3489083af921b9e1de
+      internalID: -85418444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_11
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 16
+        width: 78
+        height: 123
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d794465befc8b6546b90e09dd20c6859
+      internalID: 534722756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_12
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 14
+        width: 78
+        height: 120
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54de82b6914f7d4f87aeced2741e2cd
+      internalID: 1625213380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_13
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 13
+        width: 70
+        height: 125
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a7f0f0545a0e54d8ce97ca643e45e0
+      internalID: 1398473633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_14
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 6
+        width: 82
+        height: 140
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8b1b69171b65b4f9ee04ab5f649624
+      internalID: 1511793597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_15
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 19
+        width: 72
+        height: 115
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 593fcc87f3fd6c04bb675fd6ae88c63e
+      internalID: -1196768925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_16
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 19
+        width: 77
+        height: 118
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a269eb9edcceed641b41797c741ac18b
+      internalID: 753022381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_17
+      rect:
+        serializedVersion: 2
+        x: 1454
+        y: 14
+        width: 77
+        height: 122
+      alignment: 9
+      pivot: {x: 0.0000014886623, y: 0.98805195}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f85e531376e89a40b178f83c7bc0412
+      internalID: 1273179506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CoinIdleSheet_18
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 13
+        width: 70
+        height: 125
+      alignment: 9
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0f0ea57cc4584db1fdb312b28e2b5
+      internalID: 415610835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6830934b0b6ba934dbe4e8e7b044a6e3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CoinIdleSheet_0: 1144003561
+      CoinIdleSheet_1: -957434723
+      CoinIdleSheet_10: -85418444
+      CoinIdleSheet_11: 534722756
+      CoinIdleSheet_12: 1625213380
+      CoinIdleSheet_13: 1398473633
+      CoinIdleSheet_14: 1511793597
+      CoinIdleSheet_15: -1196768925
+      CoinIdleSheet_16: 753022381
+      CoinIdleSheet_17: 1273179506
+      CoinIdleSheet_18: 415610835
+      CoinIdleSheet_2: -107799514
+      CoinIdleSheet_3: -1539500528
+      CoinIdleSheet_4: 464062492
+      CoinIdleSheet_5: 1373030670
+      CoinIdleSheet_6: -2103161465
+      CoinIdleSheet_7: 1051022788
+      CoinIdleSheet_8: 390854873
+      CoinIdleSheet_9: -206274519
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
